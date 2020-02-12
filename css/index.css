@@ -29,7 +29,7 @@ body {
   height: 8px;
 }
 *::-webkit-scrollbar-thumb {
-  background: #628b6d;
+  background: #102721;
 }
 *::-webkit-scrollbar-track {
   background-color: transparent;
@@ -148,7 +148,7 @@ details {
   border: 2px solid #d6d6d6;
 }
 details summary {
-  color: #628b6d;
+  color: #102721;
 }
 .not-code {
   margin: 0.5em;
@@ -202,12 +202,12 @@ table td {
 #vcomment button {
   font-size: 0.7rem;
   padding: 0.3rem 1rem;
-  background-color: #628b6d;
+  background-color: #102721;
   color: #fff;
   border-color: #fff;
 }
 #vcomment button:hover {
-  background-color: #0e130f;
+  background-color: #000;
 }
 #vcomment textarea {
   font-size: 0.7rem;
@@ -305,7 +305,7 @@ table td {
 #rightside .translate_chn_to_cht {
   width: 30px;
   height: 30px;
-  background-color: #628b6d;
+  background-color: #102721;
   color: #e3e8ee;
   text-align: center;
   line-height: 29px;
@@ -318,7 +318,7 @@ table td {
 #rightside .nightshift {
   width: 30px;
   height: 30px;
-  background-color: #628b6d;
+  background-color: #102721;
   color: #e3e8ee;
   text-align: center;
   font-size: 17px;
@@ -453,9 +453,9 @@ figure.highlight {
 blockquote {
   margin: 0;
   padding: 0.1rem 0.8rem;
-  border-left: 0.2rem solid #628b6d;
+  border-left: 0.2rem solid #102721;
   color: #6a737d;
-  background-color: #c2d4c6;
+  background-color: #419e86;
 }
 .article-container pre,
 .article-container code {
@@ -841,7 +841,7 @@ blockquote {
   margin-top: 0.2rem;
   padding: 0 1rem;
   height: 1.6rem;
-  background: #628b6d;
+  background: #102721;
   color: #fff;
   text-decoration: none;
   line-height: 1.6rem;
@@ -972,7 +972,7 @@ blockquote {
   z-index: -1;
   width: 0;
   height: 3px;
-  background-color: #8fb098;
+  background-color: #388873;
   content: "";
   -webkit-transition: all 0.3s ease-in-out;
   -moz-transition: all 0.3s ease-in-out;
@@ -981,7 +981,7 @@ blockquote {
   transition: all 0.3s ease-in-out;
 }
 #aside_content .card-tag-cloud a:hover {
-  color: #628b6d !important;
+  color: #102721 !important;
 }
 #aside_content .card-tag-cloud a:hover::after {
   width: 100%;
@@ -1029,7 +1029,7 @@ blockquote {
   padding-left: 5px;
 }
 #aside_content #aside_title .aside_post_title:hover {
-  color: #628b6d !important;
+  color: #102721 !important;
 }
 #aside_content .aside_category_item,
 #aside_content .archive-list {
@@ -1051,7 +1051,7 @@ blockquote {
 }
 #aside_content .aside_category_list:hover,
 #aside_content .archive-list-item:hover {
-  background-color: #628b6d;
+  background-color: #102721;
   color: #363636;
 }
 #aside_content .aside_category_list a,
@@ -1200,7 +1200,7 @@ blockquote {
   position: absolute;
   top: 0;
   left: 0;
-  background: #628b6d;
+  background: #102721;
   color: #fff;
   cursor: pointer;
   -webkit-transition: all 0.3s ease-out;
@@ -1228,7 +1228,7 @@ blockquote {
   margin-left: 0.45rem;
   width: 0.3rem;
   height: 0.3rem;
-  border: 0.15rem solid #628b6d;
+  border: 0.15rem solid #102721;
   border-radius: 0.3rem;
   background: #fff;
   content: "";
@@ -1316,7 +1316,7 @@ blockquote {
   left: 0;
   right: 0;
   bottom: 0;
-  background: #628b6d !important;
+  background: #102721 !important;
   -webkit-transform: scale(0);
   -webkit-transform: scale(0);
   -moz-transform: scale(0);
@@ -1408,7 +1408,7 @@ blockquote {
 }
 footer {
   margin-top: 1rem;
-  background: #628b6d;
+  background: #102721;
   background-attachment: local;
   background-position: bottom;
   -webkit-background-size: cover;
@@ -1461,7 +1461,7 @@ footer:before {
 #nav .nav_bg {
   width: 100%;
   height: 100%;
-  background-color: #628b6d;
+  background-color: #102721;
   background-position: center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -1707,7 +1707,7 @@ footer:before {
   z-index: -1;
   width: 0;
   height: 3px;
-  background-color: #8fb098;
+  background-color: #388873;
   content: "";
   -webkit-transition: all 0.3s ease-in-out;
   -moz-transition: all 0.3s ease-in-out;
@@ -1754,7 +1754,7 @@ footer:before {
 #page-header.fixed .menu-icon-first #site-name:hover,
 #page-header.fixed .menu-icon-second #site-name:hover,
 #page-header.fixed .menu-icon-third #site-name:hover {
-  color: #628b6d;
+  color: #102721;
 }
 #page-header.visible {
   -webkit-transform: translate3d(0, 100%, 0);
@@ -1879,7 +1879,7 @@ footer:before {
     width: 70%;
   }
   #page-header .menus .menus_items span:hover {
-    color: #628b6d;
+    color: #102721;
   }
   #page-header .menus .menus_items .menus-expand {
     display: inline-block;
@@ -2363,7 +2363,7 @@ footer:before {
   position: absolute;
   top: 0;
   left: 0;
-  background: #628b6d;
+  background: #102721;
   color: #fff;
   cursor: pointer;
   -webkit-transition: all 0.3s ease-out;
@@ -2391,7 +2391,7 @@ footer:before {
   margin-left: 0.45rem;
   width: 0.3rem;
   height: 0.3rem;
-  border: 0.15rem solid #628b6d;
+  border: 0.15rem solid #102721;
   border-radius: 0.3rem;
   background: #fff;
   content: "";
@@ -2441,7 +2441,7 @@ footer:before {
   word-wrap: break-word;
 }
 .recent-post-item .article-title:hover {
-  color: #628b6d !important;
+  color: #102721 !important;
 }
 .tag-cloud {
   padding: 1.5rem 1rem 2rem;
@@ -2485,7 +2485,7 @@ footer:before {
   z-index: 1;
   width: 0.5rem;
   height: 0.5rem;
-  border: 0.25rem solid #628b6d;
+  border: 0.25rem solid #102721;
   border-radius: 0.5rem;
   background: #fff;
   content: "";
@@ -2524,7 +2524,7 @@ footer:before {
   left: calc(-1rem - 7px);
   width: 0.3rem;
   height: 0.3rem;
-  border: 0.15rem solid #628b6d;
+  border: 0.15rem solid #102721;
   border-radius: 0.3rem;
   background: #fff;
   content: "";
@@ -2539,7 +2539,7 @@ footer:before {
   font-size: 1rem;
 }
 .article-sort-item.year:hover:before {
-  border-color: #628b6d;
+  border-color: #102721;
 }
 .article-sort-item.year:before {
   top: 0.7rem;
@@ -2868,7 +2868,7 @@ footer:before {
   margin: 0;
 }
 #post_bottom #toc_mobile a:hover {
-  color: #628b6d;
+  color: #102721;
 }
 #post_bottom .toc_mobile_headline {
   text-align: center;
@@ -2911,7 +2911,7 @@ footer:before {
 #top-container {
   position: relative;
   margin-bottom: 1rem;
-  background-color: #628b6d;
+  background-color: #102721;
   background-attachment: local;
   background-position: center;
   -webkit-background-size: cover;
@@ -2983,10 +2983,10 @@ footer:before {
   width: fit-content;
   margin: 0.4rem 0.4rem 0.4rem 0;
   padding: 0rem 0.6rem;
-  border: 1px solid #628b6d;
+  border: 1px solid #102721;
   border-radius: 0.6rem;
   background: #fff;
-  color: #628b6d;
+  color: #102721;
   text-decoration: none;
   font-size: 12px;
   cursor: pointer;
@@ -2997,7 +2997,7 @@ footer:before {
   transition: all 0.2s ease-in-out;
 }
 .post-meta__tags:hover {
-  background: #628b6d;
+  background: #102721;
   color: #fff;
 }
 .layout {
@@ -3053,7 +3053,7 @@ footer:before {
 #post-content h4:hover:before,
 #post-content h5:hover:before,
 #post-content h6:hover:before {
-  color: #628b6d;
+  color: #102721;
 }
 #post-content h1 {
   padding-left: 1.3rem;
@@ -3169,7 +3169,7 @@ footer:before {
   position: absolute;
   top: 0;
   left: 0;
-  background: #628b6d;
+  background: #102721;
   color: #fff;
   cursor: pointer;
   -webkit-transition: all 0.3s ease-out;
@@ -3197,7 +3197,7 @@ footer:before {
   margin-left: 0.45rem;
   width: 0.3rem;
   height: 0.3rem;
-  border: 0.15rem solid #628b6d;
+  border: 0.15rem solid #102721;
   border-radius: 0.3rem;
   background: #fff;
   content: "";
@@ -3212,7 +3212,7 @@ a {
   transition: all 0.2s;
 }
 a:hover {
-  color: #628b6d;
+  color: #102721;
   text-decoration: none;
 }
 a#site-name {
@@ -3329,7 +3329,7 @@ img:hover {
   width: 0.8rem;
   height: 0.8rem;
   border-radius: 0.8rem;
-  background: #628b6d;
+  background: #102721;
   content: "";
 }
 .post-copyright:after {
@@ -3347,7 +3347,7 @@ img:hover {
   box-shadow: 0 0 8px 0 rgba(232,237,250,0.6), 0 2px 4px 0 rgba(232,237,250,0.5);
 }
 .post-copyright-meta {
-  color: #628b6d;
+  color: #102721;
   font-weight: bold;
 }
 .post-copyright-info a {
@@ -3443,7 +3443,7 @@ img:hover {
 }
 .layout_post #post a {
   text-decoration: none;
-  color: #628b6d;
+  color: #102721;
 }
 .read-mode {
   background: #faf9de;
@@ -3668,11 +3668,11 @@ img:hover {
   cursor: pointer;
   color: #fff;
   line-height: 36px;
-  background: #628b6d;
+  background: #102721;
   width: 80px;
 }
 .post-reward .reward-buttom:hover {
-  background: #233127;
+  background: #000;
 }
 .post-reward .reward-buttom:hover .reward-main {
   display: block;
