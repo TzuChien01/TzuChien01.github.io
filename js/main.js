@@ -1,8 +1,4 @@
 $(function () {
-	var script = document.createElement('script');
-script.type = 'text/jacascript';
-script.src = '//code.tidio.co/hyxjtu13sjyu1oqdaoylqx6pddmlhvzu.js';     //填自己的js路径
-$('body').append(script);
 	
   if ($('#sidebar').hasClass('auto_open')) {
     if ($(".sidebar-toc__content").children().length > 0) {
